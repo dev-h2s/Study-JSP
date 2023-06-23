@@ -1,0 +1,61 @@
+1682262732657	Rename package 'com.app.mybatis.mapper'
+1682262775423	Delete element
+1682262820961	Rename package 'com.app.mybatis.config'
+1682262992616	Rename package 'com.app.member.dao'
+1682263176528	Rename package 'com.app.member'
+1682263195380	Rename package 'com.app.board.domain'
+1682263202259	Delete element
+1682263262851	Rename package 'com.app'
+1682263330162	Rename package 'com.app.board'
+1682263415798	Delete elements
+1682263439998	Rename package 'com.app'
+1682263562015	Rename package 'com.app.board'
+1682263566949	Rename package 'com.app.board.controller'
+1682263572034	Rename package 'com.app.board.dao'
+1682263577189	Rename package 'com.app.mybatis.mapper'
+1682263583453	Rename package 'com.app.mybatis.config'
+1682263588631	Rename package 'com.app.member.domain'
+1682263594417	Rename package 'com.app.member.dao'
+1682263598931	Rename package 'com.app.member.controller'
+1682263603381	Rename package 'com.app.member'
+1682263607536	Rename package 'com.app.board.domain'
+1682264102111	Delete element
+1682264687814	Delete element
+1682264834623	Rename package 'com.app.board.controller'
+1682267538235	Rename type 'MemberDAO'
+1682267551535	Rename type 'MemberVO'
+1682267831157	Rename type 'MemberFrontController'
+1682270414352	Rename resource 'memberMapper.xml'
+1682271762045	Rename package 'com.js.member'
+1682273044446	Delete element
+1682407711523	Copy files
+1682429149159	Delete element
+1682433497510	Copy files
+1682522356523	Copy file
+1682564079676	Copy compilation unit
+1682565402165	Copy compilation unit
+1682565444157	Copy compilation unit
+1682567932652	Rename type 'ListOkControllerCommunity'
+1682567945362	Rename type 'ListOkControllerCommunityJuni'
+1682584747013	Rename compilation unit 'DetailOkControllerJuni.java'
+1682599090685	Copy file
+1682599143036	Rename resource 'communitylist.js'
+1682599152046	Rename resource 'community-list.js'
+1682652478822	Delete element
+1682652481107	Move 'board-list.js' to 'community-wmoon'
+1682667006781	Delete element
+1682667082764	Rename type 'DeleteOkController1'
+1682678316029	Rename type 'DeleteOkController'
+1682678337672	Rename type 'WriteOkController'
+1682684380314	Rename type 'ListOkCommunityController'
+1682684423662	Rename type 'ListOkCommunityJuniController'
+1682684506964	Rename type 'DeletecommunityOkController'
+1682684568353	Rename type 'WriteOkcomuController'
+1682684693288	Rename type 'DetailOkController'
+1682686399742	Copy compilation unit
+1682686430715	Copy compilation unit
+1682686528399	Copy compilation unit
+1682755998565	Copy files
+1682756005667	Copy files
+1682771065639	Rename type 'comujuniWriteOkController'
+1682771078769	Rename type 'comuWriteOkController'

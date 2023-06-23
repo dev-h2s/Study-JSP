@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.Action"/>
+    <fullyQualifiedTypeName name="com.js.mybatis.config.MyBatisConfig"/>
+    <fullyQualifiedTypeName name="javax.servlet.jsp.jstl.sql.Result"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.JsonArray"/>
+    <fullyQualifiedTypeName name="com.js.board.dao.BoardDAO"/>
+    <fullyQualifiedTypeName name="com.js.board.domain.BoardDTO"/>
+    <fullyQualifiedTypeName name="com.app.board.controller.ListOkController"/>
+    <fullyQualifiedTypeName name="com.js.Result"/>
+    <fullyQualifiedTypeName name="com.js.board.controller.ListOkCommunityController"/>
+    <fullyQualifiedTypeName name="com.js.board.controller.ListOkCommunityJuniController"/>
+    <fullyQualifiedTypeName name="com.js.board.domain.BoardVO"/>
+    <fullyQualifiedTypeName name="com.js.board.controller.comuWriteOkController"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="com.js.board.controller.comuWriteController"/>
+    <fullyQualifiedTypeName name="com.js.board.controller.FindPasswordController2"/>
+    <fullyQualifiedTypeName name="com.js.board.controller.FindPasswordController"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.Session"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+</qualifiedTypeNameHistroy>

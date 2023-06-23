@@ -1,0 +1,39 @@
+mybatisconfig - congig.xml
+
+mapper는  테이블 하나당 
+dao -mapper.xml - config.xml 
+
+dao에서 ""가 mapper에서 id 매칭
+mapper.xml에서 select는 resultType이 무조건 필요
+
+
+mvc version 2
+				
+동적 페이지  :동적 데이터 frontcontroller에서 db연산
+frontcontroller : url요청시 web.xml에서 분석  
+			서비스 그룹 하나당 frontcontroller 하나
+			http서블릿을 상속받은 서블릿 
+			controller서비스 하나당 하나	
+			여컨데 컨트롤러는 요청을 받았을때
+			해당 기능을 지닌 controller로 보내주는 것 
+
+dao : controller에서 db연산을 하기위해 분리(db에 쿼리만 날림)
+
+화면에 전달할게 있다면 forword
+화면에 전달할게 없다면 redirect
+forword 는 new가 안됨 url에 남아있음
+param : redirect를 써도 문자열값으로 남아있어서 화면에서 사용 가능
+param은 HTTP 요청(request)에서 전달된 파라미터(parameter)를 의미합니다.
+즉, 클라이언트가 서버로 전송한 요청(request)에서 전달된 파라미터를 
+서버에서 받아서 처리할 때 사용됩니다.
+
+ a.jsp(화면) -> web.xml -> frontcontroller -> c.jsp
+				 	|
+	        		 controller
+					|
+			 	     dao
+			 		|
+			     	     xml
+			 		|
+			 		DB
+
